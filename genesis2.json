@@ -1,0 +1,50 @@
+{
+  "generator": "genesis2",
+  "version": "2.0.0",
+  "projectName": "warm-cliff",
+  "projectId": 13,
+  "genId": 13,
+  "domain": "rathnas.com",
+  "sld": "rathnas",
+  "tld": "com",
+  "owner": "anandrathnas",
+  "repo": "warm-cliff",
+  "generatedAt": "2025-09-01T02:42:03.027Z",
+  "generatedBy": "genesis2-api",
+  "modules": [
+    {
+      "kind": "code",
+      "layer": "ops",
+      "type": "aws",
+      "name": "quick-ocean",
+      "region": "us-west-1"
+    },
+    {
+      "kind": "code",
+      "layer": "backend",
+      "type": "java",
+      "name": "strong-thunder",
+      "region": "us-west-1"
+    },
+    {
+      "kind": "code",
+      "layer": "frontend",
+      "type": "react",
+      "name": "swift-breeze",
+      "region": "us-west-1"
+    },
+    {
+      "kind": "code",
+      "layer": "docs",
+      "type": "readme",
+      "name": "swift-storm",
+      "region": "us-west-1"
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "license": "MIT",
+    "tags": [
+    ]
+  }
+}
